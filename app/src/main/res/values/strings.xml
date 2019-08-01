@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">카카오봇</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notloaded">NotLoaded</string>
+    <string name="enable">활성화</string>
+    <string name="disable">비활성화</string>
+    <string name="save">SAVE</string>
+    <string name="reload">리로드</string>
+
+</resources>
